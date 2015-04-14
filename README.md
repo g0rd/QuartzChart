@@ -1,3 +1,13 @@
+![this is an image which is made from the Quartz Chart builder library] (asian_viz.png)
+
+I have modified this library for this assignment. The purpose for that is to use the Quartz style pallete. 
+The major changes are made in following places:
+
+the data series in gneisschart.js [line 76-100]
+with styling of the chart in chartbuilder.css [line 117-120]
+
+
+
 Chartbuilder / Gneisschart
 ==========================
 
