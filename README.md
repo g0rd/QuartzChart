@@ -7,7 +7,6 @@ the data series in gneisschart.js [line 76-100]
 with styling of the chart in chartbuilder.css [line 117-120]
 
 
-
 Chartbuilder / Gneisschart
 ==========================
 

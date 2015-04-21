@@ -76,17 +76,17 @@ Gneiss.defaultGneissChartConfig = {
 	series: [
 		{
 			name: "NYC",
-			data: [37261, 47462, 80703, 62075, 62419, 52759, 46393, 48700],
+			data: [37261, 47462, 62075],
 			source: "Asian American Federation New York",
-			type: "column",
+			type: "line",
 			axis: 0,
 			color: "9300BF"
 		},
 		{
 			name: "National",
-			data: [45575, 65050, 75000, 88000, 65390, 50000, 60000, 53400],
+			data: [45575, 65050, 88000],
 			source: "Pew Research and Anaylsis",
-			type: "column",
+			type: "line",
 			axis: 0,
 			color: "E770FF"
 		}
